@@ -18,8 +18,9 @@ lazy val root = (project in file("."))
         Circe,
         CirceExtras,
         Fs2,
+
         List("org.gnieh" %% "fs2-data-json-circe" % "1.12.0"),
-        List("com.lihaoyi" %% "os-lib" % "0.11.4")
+
       )
   )
 
