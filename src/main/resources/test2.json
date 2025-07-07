@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2024-08-10",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Chelsea",
+    "homeGoals": 2,
+    "awayGoals": 1
+  },
+  {
+    "date": "2024-08-11",
+    "homeTeam": "Liverpool",
+    "awayTeam": "Manchester United",
+    "homeGoals": 3,
+    "awayGoals": 3
+  },
+  {
+    "date": "2024-08-12",
+    "homeTeam": "Tottenham",
+    "awayTeam": "Arsenal",
+    "homeGoals": 0,
+    "awayGoals": 2
+  }
+]
